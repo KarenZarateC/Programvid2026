@@ -1,6 +1,6 @@
 # Programvid2026
- <img src="Karen.png" alt="Karen Zarate" width="300">
-  
+ <img src="Karen Zarate/Karen.png" alt="Karen Zarate" width="300">
+
 ### Karen Zarate Castillo
 ## ROL
 Game Designer 
