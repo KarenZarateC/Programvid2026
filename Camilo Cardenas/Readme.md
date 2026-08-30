@@ -1,8 +1,8 @@
 # Programvid2026
 ---
 
-![Mi foto]
-(<img width="1376" height="3130" alt="Camilo" src="https://github.com/user-attachments/assets/b4fffcde-fd6c-4ed8-bf8d-c3f5e99b489f" />)
+Mi foto
+<img width="1376" height="3130" alt="Camilo" src="https://github.com/user-attachments/assets/b4fffcde-fd6c-4ed8-bf8d-c3f5e99b489f" />
 
 Camilo Ernesto Rodriguez Cardenas 
 
