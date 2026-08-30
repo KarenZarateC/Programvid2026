@@ -1,5 +1,5 @@
 Paula Vargas
-<img width="150" height="1600" alt="foto personal" src="https://github.com/user-attachments/assets/eee480d4-080d-499c-93d5-b1081adc9411" />
+<img width="150" height="180" alt="foto personal" src="https://github.com/user-attachments/assets/eee480d4-080d-499c-93d5-b1081adc9411" />
 
 Rol: Diseñadora de niveles (Level Designer)
 
