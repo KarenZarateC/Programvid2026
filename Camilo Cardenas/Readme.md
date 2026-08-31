@@ -5,18 +5,18 @@
 
 Camilo Ernesto Rodriguez Cardenas 
 
-## ROL
+## ROLE
 ---
-Ingeniero de Sonido
+Sound Engineer
 
-## Ubicacion
+## LOCATION
 ---
 Bogota, Colombia
 
-## Perfil
+## PROFILE
 ---
-Soy estudiante de ingenieria multimedia, soy fanatico de los videojuegos, edicion de video, y salir a varios lugares a explorar y divertirme.
+I am a multimedia engineering student and a fan of video games and video editing; I also enjoy going out to explore new places and have fun.
 
-Plato Favorito
-Arroz con pollo 
+FAVORITE DISH
+Chicken and rice
 <img width="1280" height="800" alt="arroz-con-pollo" src="https://github.com/user-attachments/assets/6c9346a0-e78d-474c-96fb-cd20ff2f82c7" />
