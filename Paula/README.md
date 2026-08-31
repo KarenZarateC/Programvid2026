@@ -2,14 +2,16 @@
 
 <img width="350" height="420" alt="foto personal" src="https://github.com/user-attachments/assets/eee480d4-080d-499c-93d5-b1081adc9411" />
 
-Rol: Diseñadora de niveles (Level Designer)
+### Role: 
+Level Designer
 
-Ubicación: Cogua, Cundinamarca, Colombia
+### Location:
+Cogua, Cundinamarca, Colombia
 
-Perfil
+### Profile
 
-Soy estudiante de Ingeniería Multimedia, interesada en el arte y el diseño. Me gusta explorar diferentes formas de expresión visual y desarrollar propuestas creativas que combinen el diseño, la estética y la comunicación.
+I am a Multimedia Engineering student with an interest in art and design. I enjoy exploring different forms of visual expression and developing creative concepts that combine design, aesthetics, and communication.
 
-Plato favorito
+### Favorite dish
 
 Salchipapas
